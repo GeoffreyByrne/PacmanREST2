@@ -15,3 +15,16 @@ c:\users\geoffrey\documents\visual studio 2013\Projects\PacmanREST\PacmanREST.Te
 c:\users\geoffrey\documents\visual studio 2013\Projects\PacmanREST\PacmanREST.Tests\obj\Debug\PacmanREST.Tests.csprojResolveAssemblyReference.cache
 c:\users\geoffrey\documents\visual studio 2013\Projects\PacmanREST\PacmanREST.Tests\obj\Debug\PacmanREST.Tests.dll
 c:\users\geoffrey\documents\visual studio 2013\Projects\PacmanREST\PacmanREST.Tests\obj\Debug\PacmanREST.Tests.pdb
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\PacmanREST\PacmanREST.Tests\bin\Debug\PacmanREST.Tests.dll.config
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\PacmanREST\PacmanREST.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\PacmanREST\PacmanREST.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\PacmanREST\PacmanREST.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\PacmanREST\PacmanREST.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\PacmanREST\PacmanREST.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\PacmanREST\PacmanREST.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\PacmanREST\PacmanREST.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\PacmanREST\PacmanREST.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\PacmanREST\PacmanREST.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\PacmanREST\PacmanREST.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\PacmanREST\PacmanREST.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\PacmanREST\PacmanREST.Tests\bin\Debug\System.Web.WebPages.Deployment.xml

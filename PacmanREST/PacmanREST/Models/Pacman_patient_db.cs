@@ -14,7 +14,7 @@ namespace PacmanREST.Models
     
     public partial class Pacman_patient_db
     {
-        public int ID { get; set; }
+        public int? ID { get; set; }
         public string name { get; set; }
         public string phone { get; set; }
         public string device_id { get; set; }

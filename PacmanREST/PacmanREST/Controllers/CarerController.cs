@@ -74,15 +74,22 @@ namespace PacmanREST.Controllers
         [ResponseType(typeof(Pacman_carer_db))]
         public IHttpActionResult PostPacman_carer_db(Pacman_carer_db pacman_carer_db)
         {
+            pacman_carer_db.ID = 0;
+            pacman_carer_db.device_id = "j";
+            
             if (!ModelState.IsValid)
             {
+                
+                //return "in Modelstate";
                 return BadRequest(ModelState);
             }
+            //return "in Post: " + pacman_carer_db.name + " AND " + pacman_carer_db.address;
 
             db.Pacman_carer_db.Add(pacman_carer_db);
             db.SaveChanges();
 
             return CreatedAtRoute("DefaultApi", new { id = pacman_carer_db.ID }, pacman_carer_db);
+            //IHttpActionResult
         }
 
         // DELETE: api/Carer/5

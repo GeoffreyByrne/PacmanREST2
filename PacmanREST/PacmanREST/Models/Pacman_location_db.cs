@@ -14,7 +14,7 @@ namespace PacmanREST.Models
     
     public partial class Pacman_location_db
     {
-        public int ID { get; set; }
+        public int? ID { get; set; }
         public decimal coordinates_x { get; set; }
         public decimal coordinates_y { get; set; }
         public Nullable<int> id_patient { get; set; }

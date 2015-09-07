@@ -14,7 +14,7 @@ namespace PacmanREST.Models
     
     public partial class Pacman_carer_db
     {
-        public int ID { get; set; }
+        public int? ID { get; set; }
         public string name { get; set; }
         public int phone { get; set; }
         public string email { get; set; }
